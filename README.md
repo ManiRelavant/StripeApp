@@ -4,6 +4,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+### Screen Record
+
+https://github.com/ManiRelavant/StripeApp/assets/117079259/005ee900-9374-48c6-9b23-8d70c8de0a04
+
 
 ### iOS
 
